@@ -6,31 +6,39 @@
 
 | Total Problems | Topics |
 |---|---|
-| 136 | 17 |
+| 149 | 19 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [binary search](#binary-search) (7)
 - [bitmasks](#bitmasks) (7)
-- [brute force](#brute-force) (27)
+- [brute force](#brute-force) (28)
 - [combinatorics](#combinatorics) (5)
 - [constructive algorithms](#constructive-algorithms) (31)
-- [data structures](#data-structures) (7)
+- [data structures](#data-structures) (9)
 - [dfs and similar](#dfs-and-similar) (2)
 - [dp](#dp) (8)
 - [games](#games) (3)
-- [geometry](#geometry) (3)
-- [greedy](#greedy) (63)
-- [implementation](#implementation) (28)
-- [math](#math) (66)
-- [number theory](#number-theory) (21)
-- [sortings](#sortings) (26)
-- [strings](#strings) (14)
-- [two pointers](#two-pointers) (12)
+- [geometry](#geometry) (4)
+- [greedy](#greedy) (68)
+- [implementation](#implementation) (32)
+- [math](#math) (70)
+- [number theory](#number-theory) (22)
+- [shortest paths](#shortest-paths) (1)
+- [sortings](#sortings) (30)
+- [strings](#strings) (15)
+- [two pointers](#two-pointers) (15)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2256C | [Hot Potatoes at the Fairy Warehouse](https://codeforces.com/contest/2256/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2256/C%20-%20Hot%20Potatoes%20at%20the%20Fairy%20Warehouse/solution.cpp) |
 
 ### binary search
 
@@ -87,6 +95,7 @@
 | 1904A | [Forked!](https://codeforces.com/contest/1904/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/1904/A%20-%20Forked!/solution.cpp) |
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.cpp) |
 | 2167D | [Yet Another Array Problem](https://codeforces.com/contest/2167/problem/D) | 1000 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2167/D%20-%20Yet%20Another%20Array%20Problem/solution.cpp) |
+| 2253B | [Hypercarp and the Control Panel](https://codeforces.com/contest/2253/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2253/B%20-%20Hypercarp%20and%20the%20Control%20Panel/solution.cpp) |
 
 ### combinatorics
 
@@ -145,6 +154,8 @@
 | 1807D | [Odd Queries](https://codeforces.com/contest/1807/problem/D) | 900 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/1807/D%20-%20Odd%20Queries/solution.cpp) |
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.cpp) |
 | 2242B | [Predominant Frequency Division](https://codeforces.com/contest/2242/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2242/B%20-%20Predominant%20Frequency%20Division/solution.cpp) |
+| 2252A | [Boss Fight](https://codeforces.com/contest/2252/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2252/A%20-%20Boss%20Fight/solution.cpp) |
+| 2253B | [Hypercarp and the Control Panel](https://codeforces.com/contest/2253/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2253/B%20-%20Hypercarp%20and%20the%20Control%20Panel/solution.cpp) |
 
 ### dfs and similar
 
@@ -181,6 +192,7 @@
 | 1620B | [Triangles on a Rectangle](https://codeforces.com/contest/1620/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/1620/B%20-%20Triangles%20on%20a%20Rectangle/solution.cpp) |
 | 1806A | [Walking Master](https://codeforces.com/contest/1806/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/1806/A%20-%20Walking%20Master/solution.cpp) |
 | 1850E | [Cardboard for Pictures](https://codeforces.com/contest/1850/problem/E) | 1100 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/1850/E%20-%20Cardboard%20for%20Pictures/solution.cpp) |
+| 1869B | [2D Traveling](https://codeforces.com/contest/1869/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/1869/B%20-%202D%20Traveling/solution.cpp) |
 
 ### greedy
 
@@ -197,6 +209,7 @@
 | 1543A | [Exciting Bets](https://codeforces.com/contest/1543/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/1543/A%20-%20Exciting%20Bets/solution.cpp) |
 | 1567B | [MEXor Mixup](https://codeforces.com/contest/1567/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/1567/B%20-%20MEXor%20Mixup/solution.cpp) |
 | 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.cpp) |
+| 1610B | [Kalindrome Array](https://codeforces.com/contest/1610/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/1610/B%20-%20Kalindrome%20Array/solution.cpp) |
 | 1620B | [Triangles on a Rectangle](https://codeforces.com/contest/1620/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/1620/B%20-%20Triangles%20on%20a%20Rectangle/solution.cpp) |
 | 1656B | [Subtract Operation](https://codeforces.com/contest/1656/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/1656/B%20-%20Subtract%20Operation/solution.cpp) |
 | 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.cpp) |
@@ -249,6 +262,10 @@
 | 2242B | [Predominant Frequency Division](https://codeforces.com/contest/2242/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2242/B%20-%20Predominant%20Frequency%20Division/solution.cpp) |
 | 2245A | [Who Watches the Watchpig?](https://codeforces.com/contest/2245/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2245/A%20-%20Who%20Watches%20the%20Watchpig%3F/solution.cpp) |
 | 2245B | [Delete and Concatenate](https://codeforces.com/contest/2245/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2245/B%20-%20Delete%20and%20Concatenate/solution.cpp) |
+| 2252A | [Boss Fight](https://codeforces.com/contest/2252/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2252/A%20-%20Boss%20Fight/solution.cpp) |
+| 2253A | [The Best Card](https://codeforces.com/contest/2253/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2253/A%20-%20The%20Best%20Card/solution.cpp) |
+| 2254C1 | [Marenol (easy version)](https://codeforces.com/contest/2254/problem/C1) | 1000 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2254/C1%20-%20Marenol%20(easy%20version)/solution.cpp) |
+| 2254C2 | [Marenol (hard version)](https://codeforces.com/contest/2254/problem/C2) | 1200 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2254/C2%20-%20Marenol%20(hard%20version)/solution.cpp) |
 
 ### implementation
 
@@ -282,6 +299,10 @@
 | 2167D | [Yet Another Array Problem](https://codeforces.com/contest/2167/problem/D) | 1000 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2167/D%20-%20Yet%20Another%20Array%20Problem/solution.cpp) |
 | 2175A | [Little Fairy's Painting](https://codeforces.com/contest/2175/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2175/A%20-%20Little%20Fairy's%20Painting/solution.cpp) |
 | 2242B | [Predominant Frequency Division](https://codeforces.com/contest/2242/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2242/B%20-%20Predominant%20Frequency%20Division/solution.cpp) |
+| 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
+| 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2254/B%20-%20Evanescent/solution.cpp) |
+| 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.cpp) |
+| 2260A | [Monocarp's Contest](https://codeforces.com/contest/2260/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2260/A%20-%20Monocarp's%20Contest/solution.cpp) |
 
 ### math
 
@@ -337,6 +358,7 @@
 | 1859A | [United We Stand](https://codeforces.com/contest/1859/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/1859/A%20-%20United%20We%20Stand/solution.cpp) |
 | 1859B | [Olya and Game with Arrays](https://codeforces.com/contest/1859/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/1859/B%20-%20Olya%20and%20Game%20with%20Arrays/solution.cpp) |
 | 1866A | [Ambitious Kid](https://codeforces.com/contest/1866/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/1866/A%20-%20Ambitious%20Kid/solution.cpp) |
+| 1869B | [2D Traveling](https://codeforces.com/contest/1869/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/1869/B%20-%202D%20Traveling/solution.cpp) |
 | 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/1873/C%20-%20Target%20Practice/solution.cpp) |
 | 1877A | [Goals of Victory](https://codeforces.com/contest/1877/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/1877/A%20-%20Goals%20of%20Victory/solution.cpp) |
 | 1878C | [Vasilije in Cacak](https://codeforces.com/contest/1878/problem/C) | 900 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/1878/C%20-%20Vasilije%20in%20Cacak/solution.cpp) |
@@ -352,6 +374,9 @@
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 | 2241B | [Good times Good times](https://codeforces.com/contest/2241/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2241/B%20-%20Good%20times%20Good%20times/solution.cpp) |
 | 2242B | [Predominant Frequency Division](https://codeforces.com/contest/2242/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2242/B%20-%20Predominant%20Frequency%20Division/solution.cpp) |
+| 2253A | [The Best Card](https://codeforces.com/contest/2253/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2253/A%20-%20The%20Best%20Card/solution.cpp) |
+| 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.cpp) |
+| 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.cpp) |
 | 2260B | [Monocarp and Projects](https://codeforces.com/contest/2260/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2260/B%20-%20Monocarp%20and%20Projects/solution.cpp) |
 
 ### number theory
@@ -378,7 +403,14 @@
 | 2167D | [Yet Another Array Problem](https://codeforces.com/contest/2167/problem/D) | 1000 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2167/D%20-%20Yet%20Another%20Array%20Problem/solution.cpp) |
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 | 2247A | [Zero Sum](https://codeforces.com/contest/2247/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2247/A%20-%20Zero%20Sum/solution.cpp) |
+| 2253A | [The Best Card](https://codeforces.com/contest/2253/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2253/A%20-%20The%20Best%20Card/solution.cpp) |
 | 2260B | [Monocarp and Projects](https://codeforces.com/contest/2260/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2260/B%20-%20Monocarp%20and%20Projects/solution.cpp) |
+
+### shortest paths
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1869B | [2D Traveling](https://codeforces.com/contest/1869/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/1869/B%20-%202D%20Traveling/solution.cpp) |
 
 ### sortings
 
@@ -400,6 +432,7 @@
 | 1849B | [Monsters](https://codeforces.com/contest/1849/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/1849/B%20-%20Monsters/solution.cpp) |
 | 1850D | [Balanced Round](https://codeforces.com/contest/1850/problem/D) | 900 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/1850/D%20-%20Balanced%20Round/solution.cpp) |
 | 1859B | [Olya and Game with Arrays](https://codeforces.com/contest/1859/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/1859/B%20-%20Olya%20and%20Game%20with%20Arrays/solution.cpp) |
+| 1869B | [2D Traveling](https://codeforces.com/contest/1869/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/1869/B%20-%202D%20Traveling/solution.cpp) |
 | 1873E | [Building an Aquarium](https://codeforces.com/contest/1873/problem/E) | 1100 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/1873/E%20-%20Building%20an%20Aquarium/solution.cpp) |
 | 1876A | [Helmets in Night Light](https://codeforces.com/contest/1876/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/1876/A%20-%20Helmets%20in%20Night%20Light/solution.cpp) |
 | 1891B | [Deja Vu](https://codeforces.com/contest/1891/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/1891/B%20-%20Deja%20Vu/solution.cpp) |
@@ -410,6 +443,9 @@
 | 2167B | [Your Name](https://codeforces.com/contest/2167/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2167/B%20-%20Your%20Name/solution.cpp) |
 | 2167C | [Isamatdin and His Magic Wand!](https://codeforces.com/contest/2167/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2167/C%20-%20Isamatdin%20and%20His%20Magic%20Wand!/solution.cpp) |
 | 2242A | [Bigrams](https://codeforces.com/contest/2242/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2242/A%20-%20Bigrams/solution.cpp) |
+| 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
+| 2254C2 | [Marenol (hard version)](https://codeforces.com/contest/2254/problem/C2) | 1200 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2254/C2%20-%20Marenol%20(hard%20version)/solution.cpp) |
+| 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.cpp) |
 
 ### strings
 
@@ -429,11 +465,13 @@
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.cpp) |
 | 2167B | [Your Name](https://codeforces.com/contest/2167/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2167/B%20-%20Your%20Name/solution.cpp) |
 | 2242A | [Bigrams](https://codeforces.com/contest/2242/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2242/A%20-%20Bigrams/solution.cpp) |
+| 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2254/B%20-%20Evanescent/solution.cpp) |
 
 ### two pointers
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1610B | [Kalindrome Array](https://codeforces.com/contest/1610/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/1610/B%20-%20Kalindrome%20Array/solution.cpp) |
 | 1656B | [Subtract Operation](https://codeforces.com/contest/1656/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/1656/B%20-%20Subtract%20Operation/solution.cpp) |
 | 1669F | [Eating Candies](https://codeforces.com/contest/1669/problem/F) | 1100 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/1669/F%20-%20Eating%20Candies/solution.cpp) |
 | 1690D | [Black and White Stripe](https://codeforces.com/contest/1690/problem/D) | 1000 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/1690/D%20-%20Black%20and%20White%20Stripe/solution.cpp) |
@@ -446,6 +484,8 @@
 | 1840C | [Ski Resort](https://codeforces.com/contest/1840/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/1840/C%20-%20Ski%20Resort/solution.cpp) |
 | 1899C | [Yarik and Array](https://codeforces.com/contest/1899/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/1899/C%20-%20Yarik%20and%20Array/solution.cpp) |
 | 1904B | [Collecting Game](https://codeforces.com/contest/1904/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/1904/B%20-%20Collecting%20Game/solution.cpp) |
+| 2253B | [Hypercarp and the Control Panel](https://codeforces.com/contest/2253/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2253/B%20-%20Hypercarp%20and%20the%20Control%20Panel/solution.cpp) |
+| 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2254/B%20-%20Evanescent/solution.cpp) |
 
 ---
 
