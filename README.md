@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 149 | 19 |
+| 150 | 19 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (1)
+- [Uncategorized](#uncategorized) (2)
 - [binary search](#binary-search) (7)
 - [bitmasks](#bitmasks) (7)
 - [brute force](#brute-force) (28)
@@ -39,6 +39,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2256C | [Hot Potatoes at the Fairy Warehouse](https://codeforces.com/contest/2256/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2256/C%20-%20Hot%20Potatoes%20at%20the%20Fairy%20Warehouse/solution.cpp) |
+| 2263B | [Min Matrices](https://codeforces.com/contest/2263/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2263/B%20-%20Min%20Matrices/solution.cpp) |
 
 ### binary search
 
