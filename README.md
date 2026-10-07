@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 154 | 19 |
+| 155 | 19 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (5)
+- [Uncategorized](#uncategorized) (6)
 - [binary search](#binary-search) (7)
 - [bitmasks](#bitmasks) (7)
 - [brute force](#brute-force) (29)
@@ -43,6 +43,7 @@
 | 2263B | [Min Matrices](https://codeforces.com/contest/2263/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2263/B%20-%20Min%20Matrices/solution.cpp) |
 | 2267A | [Turn Into a Palindrome](https://codeforces.com/contest/2267/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2267/A%20-%20Turn%20Into%20a%20Palindrome/solution.cpp) |
 | 2267B | [Fashionable Array](https://codeforces.com/contest/2267/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2267/B%20-%20Fashionable%20Array/solution.cpp) |
+| 2275A | [In Search of Convenience](https://codeforces.com/contest/2275/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2275/A%20-%20In%20Search%20of%20Convenience/solution.cpp) |
 
 ### binary search
 
