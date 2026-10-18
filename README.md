@@ -6,15 +6,15 @@
 
 | Total Problems | Topics |
 |---|---|
-| 160 | 19 |
+| 163 | 19 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (10)
+- [Uncategorized](#uncategorized) (12)
 - [binary search](#binary-search) (7)
-- [bitmasks](#bitmasks) (7)
+- [bitmasks](#bitmasks) (8)
 - [brute force](#brute-force) (29)
 - [combinatorics](#combinatorics) (5)
 - [constructive algorithms](#constructive-algorithms) (31)
@@ -23,9 +23,9 @@
 - [dp](#dp) (8)
 - [games](#games) (3)
 - [geometry](#geometry) (4)
-- [greedy](#greedy) (70)
+- [greedy](#greedy) (71)
 - [implementation](#implementation) (32)
-- [math](#math) (72)
+- [math](#math) (73)
 - [number theory](#number-theory) (23)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (30)
@@ -39,6 +39,8 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2256C | [Hot Potatoes at the Fairy Warehouse](https://codeforces.com/contest/2256/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2256/C%20-%20Hot%20Potatoes%20at%20the%20Fairy%20Warehouse/solution.cpp) |
+| 2261A | [Hey, It's Me, Souvlakity](https://codeforces.com/contest/2261/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2261/A%20-%20Hey%2C%20It's%20Me%2C%20Souvlakity/solution.cpp) |
+| 2261C | [I Know About a Million Things](https://codeforces.com/contest/2261/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2261/C%20-%20I%20Know%20About%20a%20Million%20Things/solution.cpp) |
 | 2263A | [Min Max Game](https://codeforces.com/contest/2263/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2263/A%20-%20Min%20Max%20Game/solution.cpp) |
 | 2263B | [Min Matrices](https://codeforces.com/contest/2263/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2263/B%20-%20Min%20Matrices/solution.cpp) |
 | 2267A | [Turn Into a Palindrome](https://codeforces.com/contest/2267/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2267/A%20-%20Turn%20Into%20a%20Palindrome/solution.cpp) |
@@ -72,6 +74,7 @@
 | 1805A | [We Need the Zero](https://codeforces.com/contest/1805/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/1805/A%20-%20We%20Need%20the%20Zero/solution.cpp) |
 | 1807G2 | [Subsequence Addition (Hard Version)](https://codeforces.com/contest/1807/problem/G2) | 1100 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/1807/G2%20-%20Subsequence%20Addition%20(Hard%20Version)/solution.cpp) |
 | 1842B | [Tenzing and Books](https://codeforces.com/contest/1842/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/1842/B%20-%20Tenzing%20and%20Books/solution.cpp) |
+| 2261B | [What's the Capital of France?](https://codeforces.com/contest/2261/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2261/B%20-%20What's%20the%20Capital%20of%20France%3F/solution.cpp) |
 
 ### brute force
 
@@ -277,6 +280,7 @@
 | 2253A | [The Best Card](https://codeforces.com/contest/2253/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2253/A%20-%20The%20Best%20Card/solution.cpp) |
 | 2254C1 | [Marenol (easy version)](https://codeforces.com/contest/2254/problem/C1) | 1000 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2254/C1%20-%20Marenol%20(easy%20version)/solution.cpp) |
 | 2254C2 | [Marenol (hard version)](https://codeforces.com/contest/2254/problem/C2) | 1200 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2254/C2%20-%20Marenol%20(hard%20version)/solution.cpp) |
+| 2261B | [What's the Capital of France?](https://codeforces.com/contest/2261/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2261/B%20-%20What's%20the%20Capital%20of%20France%3F/solution.cpp) |
 | 2269A | [SauSaGe Bank](https://codeforces.com/contest/2269/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2269/A%20-%20SauSaGe%20Bank/solution.cpp) |
 
 ### implementation
@@ -391,6 +395,7 @@
 | 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.cpp) |
 | 2256B | [Domino Tiles](https://codeforces.com/contest/2256/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2256/B%20-%20Domino%20Tiles/solution.cpp) |
 | 2260B | [Monocarp and Projects](https://codeforces.com/contest/2260/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2260/B%20-%20Monocarp%20and%20Projects/solution.cpp) |
+| 2261B | [What's the Capital of France?](https://codeforces.com/contest/2261/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2261/B%20-%20What's%20the%20Capital%20of%20France%3F/solution.cpp) |
 | 2269A | [SauSaGe Bank](https://codeforces.com/contest/2269/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2269/A%20-%20SauSaGe%20Bank/solution.cpp) |
 
 ### number theory
