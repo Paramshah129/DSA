@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 163 | 19 |
+| 166 | 19 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (12)
+- [Uncategorized](#uncategorized) (15)
 - [binary search](#binary-search) (7)
 - [bitmasks](#bitmasks) (8)
 - [brute force](#brute-force) (29)
@@ -45,11 +45,14 @@
 | 2263B | [Min Matrices](https://codeforces.com/contest/2263/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2263/B%20-%20Min%20Matrices/solution.cpp) |
 | 2267A | [Turn Into a Palindrome](https://codeforces.com/contest/2267/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2267/A%20-%20Turn%20Into%20a%20Palindrome/solution.cpp) |
 | 2267B | [Fashionable Array](https://codeforces.com/contest/2267/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2267/B%20-%20Fashionable%20Array/solution.cpp) |
+| 2269C | [K Is Important](https://codeforces.com/contest/2269/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2269/C%20-%20K%20Is%20Important/solution.cpp) |
 | 2271A | [Robot Odd Moves](https://codeforces.com/contest/2271/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2271/A%20-%20Robot%20Odd%20Moves/solution.cpp) |
 | 2271C | [XOR Problem](https://codeforces.com/contest/2271/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2271/C%20-%20XOR%20Problem/solution.cpp) |
+| 2274C | [Lavencia Oranges](https://codeforces.com/contest/2274/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2274/C%20-%20Lavencia%20Oranges/solution.cpp) |
 | 2275A | [In Search of Convenience](https://codeforces.com/contest/2275/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2275/A%20-%20In%20Search%20of%20Convenience/solution.cpp) |
 | 2275B | [Did Not Go to Print](https://codeforces.com/contest/2275/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2275/B%20-%20Did%20Not%20Go%20to%20Print/solution.cpp) |
 | 2275C | [Unrequited Love](https://codeforces.com/contest/2275/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2275/C%20-%20Unrequited%20Love/solution.cpp) |
+| 2283B | [Rhythmic String](https://codeforces.com/contest/2283/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/Paramshah129/DSA/blob/HEAD/2283/B%20-%20Rhythmic%20String/solution.cpp) |
 
 ### binary search
 
